@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cocktails</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ingredients_label">Ingredients:</string>
+    <string name="preparation_label">Preparation:</string>
+    <string name="glass_type_label">Type of glass:</string>
+</resources>
